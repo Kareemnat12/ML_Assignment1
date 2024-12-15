@@ -15,8 +15,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Kareemnat12/ML_Assignment1.git",
+    "accountId": "c3cb4151-289d-4b6e-bd78-35feb901bdf8"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -29,7 +40,7 @@
   "keyToString": {
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "branch__2",
+    "git-widget-placeholder": "andaleeb",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -56,6 +67,7 @@
       <updated>1733997809459</updated>
       <workItem from="1733997810740" duration="354000" />
       <workItem from="1734264573062" duration="333000" />
+      <workItem from="1734266055337" duration="314000" />
     </task>
     <servers />
   </component>
