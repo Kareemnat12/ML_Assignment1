@@ -4,6 +4,3 @@ print('in this stuff i deleted the first line and make a new one to check if it 
 
 
 print("safasdfsf")
-print("abeer ")
-print("Nader Salameh")
-print("test")
