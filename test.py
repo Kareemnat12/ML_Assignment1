@@ -7,3 +7,6 @@ print("safasdfsf")
 print("abeer ")
 print("Nader Salameh")
 print("test")
+
+
+print("adam is testing")
